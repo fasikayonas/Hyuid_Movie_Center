@@ -1,0 +1,30 @@
+{
+  "num_movies": 57,
+  "num_tmdb": 45,
+  "num_ethiopian": 12,
+  "genres": [
+    "Action",
+    "Animation",
+    "Biography",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "History",
+    "Psychological",
+    "Romance",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "countries": [
+    "Ethiopia",
+    "India",
+    "Korea",
+    "Turkey",
+    "USA"
+  ],
+  "avg_rating": 8.36842105263158,
+  "max_rating": 9.3,
+  "top_movie": "Parasite",
+  "model_type": "TF-IDF + Cosine Similarity",
+  "trained_date": "2026-10-27 17:39:41.223594"
+}
